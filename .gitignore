@@ -1,4 +1,4 @@
 # Windows default autosave extension
 *.asv
 .idea
-java.iml
+*.iml
